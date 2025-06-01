@@ -1,2 +1,2 @@
 # prijava
-Programi u Lazarusu
+Programi koji olakšava pristup sajtovima, pisan u Lazarusu
