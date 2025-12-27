@@ -1,3 +1,4 @@
 # prijava
-Programi prijavasetup.exe koji olakšava pristup sajtovima, pisan u Lazarusu /n
-Program Shutdown.exe gasi Windows po želji korisnika
+Programi prijavasetup.exe koji olakšava pristup sajtovima, pisan u Lazarusu
+
+Program ShutdownTimer.exe gasi Windows po želji korisnika
